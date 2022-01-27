@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Se você usar este caderno de atividade, favor citar este repositório."
+authors:
+- family-names: "Corrêa dos Santos"
+  given-names: "Renato Augusto"
+  orcid: "https://orcid.org/0000-0003-0826-5479"
+- family-names: "Peres"
+  given-names: "Felipe Vaz"
+  orcid: "https://orcid.org/0000-0003-2791-4104"
+title: "Introdução à Lógica de Programação para Biocientistas em Python (GBMeeting 2022)"
+version: 1.0.0
+doi: 10.5281/zenodo.5911979
+date-released: 2022-01-27
+url: "https://github.com/SantosRAC/python4gbmeeters2022"
